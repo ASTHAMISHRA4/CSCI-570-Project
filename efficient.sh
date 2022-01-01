@@ -1,0 +1,1 @@
+python3 SequenceAlignment.py --dc input.txt
